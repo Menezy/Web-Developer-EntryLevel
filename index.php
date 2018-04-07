@@ -158,8 +158,8 @@
                   <li>Vue.js</li>
                 </ul>
                 <p class="project-description ">A simple shopping list built with Vue.js and Bootstrap 4</p>
-                <a href="https://github.com/Menezy/Vue-shopping-list-app " target="_blank "
-                  class="button button-primary ">View on Github</a>
+                <a href="http://vueshoppinglist.herokuapp.com" target="_blank "
+                  class="button button-primary ">View app</a>
               </div>
             </div>
           </div>
