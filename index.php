@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-  <title>Bright Mene Sunday | FavCode test</title>
+  <title>Bright Mene Sunday | Portfolio</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -36,17 +36,17 @@
         <div class="hero-content">
 
           <h4 class="cd-headline letters type" style="color:white;">
-            <span>Hey, I'm Bright. I design & build</span>
+            <span>Hey, I'm Bright.</span>
             <br>
             <span class="cd-words-wrapper">
-              <b class="is-visible">Smart user interfaces</b>
+              <b class="is-visible">But my friends call me Menezy:-)</b>
+               <b>I design and build..</b>
+              <b>Smart user interfaces</b>
               <b>landing pages</b>
-              <b>corporate websites</b>
-              <b>web applications</b>
-              <b>And guess what!</b>
-              <b>I'm learning Backend Web Dev</b>
-              <b>...with FavCode54</b>
-              <b>My mission for FavCode is to..</b>
+              <b>Corporate websites</b>
+              <b>Ecommerce websites</b>
+              <b>Web Applications</b>
+              <b>My mission is to..</b>
               <b>Develop & deploy...</b> 
               <b>..enterprise products</b>
             </span>
@@ -71,7 +71,7 @@
     </div>
     <div class="container" id="aboutMe">
       <p class="statement gunmetal" style="margin:0 auto;font-size:20px;text-align:left;">
-        I'm a frontend web developer with over One(1) year of experience in web development. I started my web design and development
+        I'm a Web developer with over two(2) years of experience in web development. I started my web design and development
         journey with New Horizons computer learning center, where i bagged an advanced diploma in web development.
         I've been investing an insane amount of hours in self development, ever ready to learn, build, ship and improve. I have a strong
         passion for technology and that's what has sustained me thus far no matter the challenges. I learn new Techonologies
@@ -111,7 +111,7 @@
             <div class="expertise-block ">
               <i class="fa fa-code yellow "></i>
               <h4 class="title slate ">Code</h4>
-              <p class="summary" style="font-size:2rem;">I design with HTML5, CSS3 and a touch of JavaScript. I love coding things from scratch, but I can work with
+              <p class="summary" style="font-size:2rem;">I design with HTML5, CSS3, JavaScript and a touch of PHP. I love coding things from scratch, but I can work with
                 front-end frameworks like Bootstrap, materializecss and Vue.js</p>
             </div>
           </div>
@@ -194,10 +194,10 @@
             <a href="index.html " class="footer-logo ">
               <img src="images/mene.jpg ">
             </a>
-            <p class="made-by-me ">Bright, 2018. Submission for Felix - Favcode Partnership</p>
+            <p class="made-by-me ">Bright Mene Sunday, 2018</p>
             <p>Here are links to my social media profile</p>
             <div class="social-links ">
-              <a href="https://twitter.com/codemagnate ">
+              <a href="https://twitter.com/menezy10 ">
                 <i class="fa fa-twitter "></i>
               </a>
               <a href="https://www.linkedin.com/in/bright-mene-sunday-bb8681139/ " target="_blank ">
