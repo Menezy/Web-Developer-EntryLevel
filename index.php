@@ -7,12 +7,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="description" content="African development through partnership">
+  <meta name="description" content="My Portfolio">
   <!-- Open Graph data -->
-  <meta property="og:title" content="Submission for Felix - Favcode ">
+  <meta property="og:title" content="Bright Mene Sunday | Portfolio ">
   <meta property="og:type" content="article">
   <meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
-  <meta property="og:description" content="African development through partnership">
+  <meta property="og:description" content="My Portfolio">
 
   <link rel="canonical" href="index.html">
   <meta property="og:url" content="index.html">
