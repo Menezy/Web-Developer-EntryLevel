@@ -11,7 +11,6 @@
   <!-- Open Graph data -->
   <meta property="og:title" content="Bright Mene Sunday | Portfolio ">
   <meta property="og:type" content="article">
-  <meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
   <meta property="og:description" content="My Portfolio">
 
   <link rel="canonical" href="index.html">
